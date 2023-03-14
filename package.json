@@ -2,7 +2,7 @@
   "name": "post-it",
   "version": "1.0.0",
   "description": "Post-it is a simple social media app that tallows you to post anything (text, images, video, and/or audio) on a single post-it",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "nodemon server.js",
     "start:prod": "NODE_ENV=production nodemon server.js",
